@@ -1,5 +1,4 @@
 # Campus Exam Invigilator Scheduling System
-## EGC 301P — Operating Systems Lab Mini Project Report
 
 ---
 
